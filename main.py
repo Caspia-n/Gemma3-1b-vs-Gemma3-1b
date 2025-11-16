@@ -24,13 +24,21 @@ def chat(model, history, new_message):
     history.append({"role": "assistant", "content": assistant_msg})
     return assistant_msg
 msg = input("Starter message: \n")
+def mainloop():
+    for i in range(2000):
+        reply_a = chat("gemma3:1b", history_a, msg)
+        print("Jake:", reply_a)
+        write_md("Jake", reply_a)
+
+        reply_b = chat("gemma3:1b", history_b, reply_a)
+        print("Paul:", reply_b)
+        write_md("Paul", reply_b)
+
+        msg = reply_b
 while True:
-    reply_a = chat("gemma3:1b", history_a, msg)
-    print("Jake:", reply_a)
-    write_md("Jake", reply_a)
-
-    reply_b = chat("gemma3:1b", history_b, reply_a)
-    print("Paul:", reply_b)
-    write_md("Paul", reply_b)
-
-    msg = reply_b
+    mainloop()
+    match input("Do you want to continue? (y/n):\n"):
+        case "y":
+            print("Continueing")
+        case "n":
+            break
