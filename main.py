@@ -23,8 +23,10 @@ def chat(model, history, new_message):
     assistant_msg = response["message"]["content"]
     history.append({"role": "assistant", "content": assistant_msg})
     return assistant_msg
+global msg
 msg = input("Starter message: \n")
 def mainloop():
+    global msg
     for i in range(2000):
         reply_a = chat("gemma3:1b", history_a, msg)
         print("Jake:", reply_a)
