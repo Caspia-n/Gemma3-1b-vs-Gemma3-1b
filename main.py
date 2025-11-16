@@ -24,15 +24,16 @@ def chat(model, history, new_message):
     history.append({"role": "assistant", "content": assistant_msg})
     return assistant_msg
 global msg
+CHAT_MODEL = "deepseek-r1:8b"
 msg = input("Starter message: \n")
 def mainloop():
     global msg
-    for i in range(2000):
-        reply_a = chat("gemma3:1b", history_a, msg)
+    for i in range(250):
+        reply_a = chat(CHAT_MODEL, history_a, msg)
         print("Jake:", reply_a)
         write_md("Jake", reply_a)
 
-        reply_b = chat("gemma3:1b", history_b, reply_a)
+        reply_b = chat(CHAT_MODEL, history_b, reply_a)
         print("Paul:", reply_b)
         write_md("Paul", reply_b)
 
