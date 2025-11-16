@@ -1550,3 +1550,1207 @@ VIDED.
 
 …Becoming.
 
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)icio
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+ revealing
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+attutto
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+… progressively.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutelyhek.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Quietly.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Watching.
+
+## Paul
+
+…Absolutely.
+
+## Jake
+
+(Pause)
+
+…Becoming.
+
+## Paul
+
+…Absolutely.
+
