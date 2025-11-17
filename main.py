@@ -24,7 +24,7 @@ def chat(model, history, new_message):
     history.append({"role": "assistant", "content": assistant_msg})
     return assistant_msg
 global msg
-CHAT_MODEL = "deepseek-r1:8b"
+CHAT_MODEL = "gemma3:1b"
 msg = input("Starter message: \n")
 def mainloop():
     global msg
