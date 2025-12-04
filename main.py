@@ -26,6 +26,10 @@ def chat(model, history, new_message):
 global msg
 CHAT_MODEL = "gemma3:1b"
 msg = input("Starter message: \n")
+SYSPROMT_A = input("Jake's system prompt:\n")
+SYSPROMT_B = input("Paul's system prompt:\n")
+history_a.append({"role": "system", "content": SYSPROMT_A})
+history_b.append({"role": "system", "content": SYSPROMT_B})
 def mainloop():
     global msg
     for i in range(250):
