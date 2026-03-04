@@ -1,4 +1,4 @@
-# clankerconv
+# Ai talking stuffs
 
 An experimental AI conversation generator that creates emergent dialogues between two AI personas using Ollama.
 
